@@ -44,8 +44,8 @@ a:hover {
 
 a small {
   font-size:11px;
-  color:#777;
-  margin-top:-0.6em;
+  color:#999;
+  /*margin-top:-0.6em;*/
   display:block;
 }
 
@@ -56,6 +56,10 @@ a:hover small {
 .wrapper {
   width:860px;
   margin:0 auto;
+}
+
+.right {
+  text-align: right;
 }
 
 blockquote {
